@@ -8,7 +8,7 @@
 > **Welcome to Merge Fellas: Italian Brainrot, the delightfully absurd puzzle game where you merge quirky items and characters inspired by the hilarious "Italian Brainrot" phenomenon!**
 
 
-> ![image](https://github.com/user-attachments/assets/dcca6c5c-5e78-4f09-98a3-7ce806e27b34)
+ ![image](https://github.com/user-attachments/assets/dcca6c5c-5e78-4f09-98a3-7ce806e27b34)
 
 
 Ever wondered what happens when Italian charm meets internet meme madness? If you enjoy a good chuckle and a satisfying puzzle, you're in the right place!
