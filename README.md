@@ -1,5 +1,3 @@
-# Merge-Fellas
-Ever wondered what happens when Italian charm meets internet meme madness? Welcome to Merge Fellas: Italian Brainrot, a delightful puzzle game where you get to merge quirky items and characters inspired by the hilariously absurd "Italian Brainrot" phenomenon. If you enjoy a good chuckle and a satisfying puzzle, you're in the right place!
 
 
 # Merge Fellas: Italian Brainrot 🇮🇹🧩😂 - Where Memes and Merging Collide!
@@ -8,6 +6,8 @@ Ever wondered what happens when Italian charm meets internet meme madness? Welco
 [![Official Website](https://img.shields.io/badge/Visit%20Website-merge--fellas.org-blue?style=for-the-badge&logo=google-chrome)](https://merge-fellas.org/)
 
 > **Welcome to Merge Fellas: Italian Brainrot, the delightfully absurd puzzle game where you merge quirky items and characters inspired by the hilarious "Italian Brainrot" phenomenon!**
+
+
 > ![image](https://github.com/user-attachments/assets/dcca6c5c-5e78-4f09-98a3-7ce806e27b34)
 
 
