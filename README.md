@@ -72,7 +72,7 @@ We hope you enjoy your journey into the world of **[Merge Fellas](https://merge-
 *   **[Official Website](https://merge-fellas.org/)**
 *   **[Play Game](https://merge-fellas.org/)**
 *   *[discord] Our Community/Discord Link*
-*   **[Contact Us](https://merge-fellas.org/terms-of-services/)**Bug Report/Support Link* 
+*   **[Contact Us](https://merge-fellas.org/terms-of-services/)**Bug Report/Support*
 
 ---
 
